@@ -1,5 +1,7 @@
 
-<h2 align = "center"> Hi, I'm Jiwon.</h2>
+<h2 align = "center"> Hi, I'm Jiwon.
+
+</h2>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
