@@ -9,9 +9,12 @@
 
 ## Experiences
 ### 2024
-
+- Flutter Project
+- Node.js Project
+  
 ### 2023
-
+- Studied Node.js and Spring Boot
+- Web Project as a Backend Developer
 
 
 
