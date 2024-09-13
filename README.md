@@ -10,13 +10,15 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-    ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+    <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    <img src="https://img.shields.io/badge/nodejs-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 
