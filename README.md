@@ -1,4 +1,4 @@
-### Hi, I'm Jiwon. 👋
+# Hi, I'm Jiwon. 👋
 
 
 ## About Me
@@ -8,13 +8,13 @@
 
 
 ## Experiences
-# 2024
+### 2024
 
-# 2023
-
-
+### 2023
 
 
-# Statistics
+
+
+### Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunaunnie)](https://github.com/anuraghazra/github-readme-stats)
 
