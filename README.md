@@ -1,6 +1,4 @@
-<div align="center">
-<h3 aligh="center"> Hi, I'm Jiwon. 👋 </h3>
-</div>
+## Hi, I'm Jiwon.
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
