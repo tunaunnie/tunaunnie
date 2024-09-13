@@ -1,11 +1,11 @@
 <div align="center">
-Hi, I'm Jiwon. 👋
+<h3 aligh="center"> Hi, I'm Jiwon. 👋 </h3>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-    ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
