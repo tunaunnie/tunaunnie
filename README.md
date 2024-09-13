@@ -4,22 +4,23 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/nodejs-20232a.svg?style=for-the-badge&logo=nodejs&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
+
 
 
 
