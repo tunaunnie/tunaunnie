@@ -9,13 +9,14 @@
 
 ## Experiences
 ### 2024
-- Flutter Project
-- Node.js Project
+- AI-Based Learning Support Application for the Visually and Hearing Impaired, COMMA
+    : Contributed as Backend and Client Developer, Using Flutter
+- Fashion-Based Matching Service, OODD
+    : Contributed as Backend Developer
   
 ### 2023
-- Studied Node.js and Spring Boot
-- Web Project as a Backend Developer
-
+- Study Material Exchange Platform for Ewha Womans University Students, 808.com
+    : Contributed as Backend Developer
 
 
 ### Statistics
